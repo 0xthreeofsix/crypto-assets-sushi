@@ -1,0 +1,24 @@
+{
+    "name": "Pulsechain",
+    "website": "https://pulsechain.com/",
+    "source_code": "https://gitlab.com/pulsechaincom",
+    "white_paper": "https://gitlab.com/pulsechaincom/pulsechain-mainnetr",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/pulsechaincom",
+            "handle": "pulsechain"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/r/Pulsechain",
+            "handle": "pulsechain"
+        }
+    ],
+    "explorer": "https://scan.pulsechain.com",
+    "research": "https://pulsechain.com",
+    "symbol": "PLS",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active",}
